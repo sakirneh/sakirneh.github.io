@@ -76,7 +76,7 @@ color: white;
     
 }
 
-/*
+
 #mymessage{
     
     max-width: 400px;
@@ -85,9 +85,11 @@ color: white;
     min-width: 200px;
     min-height: 150px;
 
-    color: white;
+    
     display: none;
 }
+/*
+color: white;
 */
 
 .fade-in{
