@@ -1,4 +1,16 @@
-        function replaceImg() {
+        const label = document.getElementById('label');
+        const btn = document.getElementById('btn1');
+        const txt1 = document.getElementById('user');
+
+        var mymessage = document.getElementById('mymessage');
+        
+        var message = "Hey Mar, i know we can't do much together on valentine's day while we are so far apart but i wanted to do something so i made a collection/collage of the photos we have together and i wish we took more photos before you left. I'm hopefull we will take many more together, love you.";
+        
+
+        var elements = document.getElementsByClassName("photo");
+        var userInput = txt1.value;
+
+function replaceImg() {
             if (txt1.value == "Mar" || txt1.value == "mar") {
 
                 for(i = 0; i < elements.length; i++){
