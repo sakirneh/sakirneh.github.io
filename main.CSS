@@ -35,10 +35,11 @@ input[type=button]{
     color:white;
 }
 
+/* 
 #label{
 color: white;
 }
-
+*/
 
 
 .photo-gallery{
@@ -75,7 +76,7 @@ color: white;
     
 }
 
-
+/*
 #mymessage{
     
     max-width: 400px;
@@ -87,7 +88,7 @@ color: white;
     color: white;
     display: none;
 }
-
+*/
 
 .fade-in{
     opacity: 1;
